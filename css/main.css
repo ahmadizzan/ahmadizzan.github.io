@@ -146,14 +146,39 @@ a:visited { color: #205caa; }
 
 .home h1 { margin-bottom: 25px; }
 
-.posts { list-style-type: none; }
+.posts {
+  text-align: center;
+  list-style-type: none;
+}
 
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 20px;
+  font-size: 30px;
+  font-weight: 400;
   letter-spacing: -1px;
+  color: black;
   line-height: 1;
+}
+
+.posts .excerpt {
+  text-align: left;
+}
+
+.posts .post-link:hover {
+  color: #0061ff;
+}
+
+.posts .post-read-more {
+  font-size: 14px;
+  font-weight: 400;
+  /*letter-spacing: -1px;*/
+  color: black;
+  line-height: 1;
+}
+
+.posts .post-read-more:hover {
+  color: #0061ff;
 }
 
 .posts .post-date {

@@ -3,15 +3,29 @@ layout: default
 ---
 
 <div class="home">
-  
   <ul class="posts">
-    {% for post in site.posts %}
+    <!-- {% for post in site.posts %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <br>
         {{ post.excerpt }}
       </li>
+    {% endfor %} -->
+    <!-- ini yang baru cin -->
+    {% for post in site.posts %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <br>
+        <div class="excerpt">
+          {{ post.excerpt }}
+        </div>
+        <div style="text-align:right">
+          <a class="post-read-more" href="{{ post.url | prepend: site.baseurl }}">Read more ></a>
+        </div>
+      </li>
+      <br>
     {% endfor %}
   </ul>
 
