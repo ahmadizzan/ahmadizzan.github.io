@@ -4,7 +4,7 @@ title: Reading
 permalink: /reading/
 ---
 
-One of my goal this summer 2018 is to read more books! I'm trying to read at least 3 non-tech books.
+It started as a summer holiday goal, but I'm trying to make reading more of a habit. Feel free to follow me on [goodreads](https://www.goodreads.com/user/show/72251923-ahmad-izzan), and let me know if you know any book I should read!
 
 **Done:**
 - [What I Wish I Knew When I Was 20](https://www.goodreads.com/book/show/6081261-what-i-wish-i-knew-when-i-was-20)
@@ -14,3 +14,4 @@ One of my goal this summer 2018 is to read more books! I'm trying to read at lea
 **To read:**
 - [Man's Search For Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning?ac=1&from_search=true)
 - [Peak: Secrets from the New Science of Expertise](https://www.goodreads.com/book/show/26312997-peak?ac=1&from_search=true)
+- [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer?ac=1&from_search=true)
