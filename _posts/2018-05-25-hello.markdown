@@ -1,11 +1,22 @@
 ---
 layout: post
 comments: true
-title:  "A brief history of mine"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+title:  "Get To Know Me And My Blog"
+excerpt: "A short intro about me, why I wanted to start blogging, and what will I post"
 date:   2018-05-25 00:40:00 +0700
 ---
 
-### hello! 😄
+Hello, My name is Izzan and currently I'm a 3rd year Computer Science student at Bandung Institute of Technology. You could read more about me, on my [about page](/about). Here's some trivia about me:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- I was born without a doctor, apparently at the time the doctor was still on the elevator
+- I live most of my life at Jakarta, Indonesia
+- I used to sell [Indomie](https://www.google.com/search?tbm=isch&source=hp&biw=1280&bih=721&ei=DP7RW6m_OoHyrAGs041g&q=indomie&oq=indomie) in my high school, Where I earned enough to buy my own laptop and other things I wanted
+- I initially intended to pursue Economics up until last semester, where I opted for Computer Science
+- I really wanted try to study/work at US, actually back when applying for unviersity, I applied and got accepted at [University of Washington, Seattle](https://www.washington.edu/) but since it's so expensive I went to [ITB](https://if.stei.itb.ac.id/) instead
+- I interned at 2 awesome companies: [Dekoruma](https://dekoruma.com/) and [Bukalapak](https://www.bukalapak.com/)
+- I'm still not sure what I wanted to do after I graduate, but probably want to do try applying for grad school in the US
+- I'm a forgetful person
+
+Being the forgetful person that I am, I don't want this journey of mine to be not remembered. Projects that I've worked on for days, knowledge that I've learned, and experiences I've gained for me are valuable things that should be remembered and reflected on and that's why I wanted to start blogging. At the moment, I'll post about my current interests (Data Science and System) and also my experiences. In the future, I'm planning to divide this blog into 2 pages, which is tech section where I'll post technical writings and my projects and journal where I'll post my experiences. I hope that I can consistently post to this blog!
+
+Since I'm very green in writing (especially in english), I know that I'll make a lot of grammatical errors. Do let me know if you notice mistakes in my writings. Thank you.

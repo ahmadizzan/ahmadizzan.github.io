@@ -147,14 +147,14 @@ a:visited { color: #205caa; }
 .home h1 { margin-bottom: 25px; }
 
 .posts {
-  text-align: center;
+  /*text-align: center;*/
   list-style-type: none;
 }
 
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 30px;
+  font-size: 22px;
   font-weight: 400;
   letter-spacing: -1px;
   color: black;
@@ -284,6 +284,10 @@ a:visited { color: #205caa; }
 }
 
 .post pre.terminal code { background-color: #333; }
+
+.post img {
+  width: 100%;
+}
 
 /* AK custom CSS mods */
 .imgright { float: right; margin-left: 10px; }
