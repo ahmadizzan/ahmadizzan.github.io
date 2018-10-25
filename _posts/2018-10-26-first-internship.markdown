@@ -2,8 +2,8 @@
 layout: post
 comments: true
 title:  "First Software Engineering Internship — How I got it"
-excerpt: "A short intro about me, why I wanted to start blogging, and what will I post"
-date:   2018-05-25 00:40:00 +0700
+excerpt: "About a year have passed since I finished my first tech internship as a Software Engineering Intern, and looking back, it’s been a hell lot of experience happened to me in the last year."
+date:   2018-10-26 00:40:00 +0700
 ---
 
 This post was originally posted on [Medium](https://medium.com/@ahmadizzan/first-software-engineering-internship-how-i-got-it-48107c555444)

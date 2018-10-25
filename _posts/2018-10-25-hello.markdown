@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Get To Know Me And My Blog"
 excerpt: "A short intro about me, why I wanted to start blogging, and what will I post"
-date:   2018-05-25 00:40:00 +0700
+date:   2018-10-25 00:40:00 +0700
 ---
 
 Hello, My name is Izzan and currently I'm a 3rd year Computer Science student at Bandung Institute of Technology. You could read more about me, on my [about page](/about). Here's some trivia about me:
