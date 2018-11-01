@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Get To Know Me And My Blog"
-excerpt: "A short intro about me, why I wanted to start blogging, and what will I post"
+excerpt: "A short intro about me, why I wanted to start blogging, and what I will post"
 date:   2018-10-25 00:40:00 +0700
 ---
 
