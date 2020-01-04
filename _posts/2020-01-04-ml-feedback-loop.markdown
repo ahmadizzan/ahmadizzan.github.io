@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "ML Feedback Loop"
-excerpt: "no show"
+excerpt: "ML feedback loop sucks. When I worked on web dev, I could almost always instantly looks at the result just by refreshing the browser. The same doesn't apply to machine learning."
 date:   2020-01-04 00:40:00 +0700
 ---
 
