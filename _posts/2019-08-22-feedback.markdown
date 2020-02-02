@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Feedback"
-excerpt: "On my previous internship, there’s a unique event that employees could participated in called “Lunch Ninja”."
+excerpt: "On my previous internship, there’s a unique event that employees could participated in called Lunch Ninja."
 date:   2019-08-22 00:40:00 +0700
 ---
 
