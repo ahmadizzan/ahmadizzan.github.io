@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello! I'm Ahmad **Izzan**.
+Hello! I'm Izzan.
 
 I'm currently working on machine learning at stealth startup in Singapore.
 
