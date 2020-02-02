@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello! I'm Izzan.
 
-I'm currently working on machine learning at stealth startup in Singapore.
+I'm currently working on machine learning at a stealth startup in Singapore.
 
 I'm a final-year computer science student at [Bandung Institute of Technology](https://if.stei.itb.ac.id/), Indonesia.
 
