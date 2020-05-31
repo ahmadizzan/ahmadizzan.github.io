@@ -18,9 +18,7 @@ As a 3rd year Computer Science student, graduation felt getting closer and close
 
 I could go on and on, but you get the idea, there's a lot of big things waiting to be solved and thinking about this reminded me about a really memorable scene about fig tree from the series Master of None. If you haven't watched the show yet, here's the clip from Youtube.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=oFwaeb3a3NA
-" target="_blank"><img src="http://img.youtube.com/vi/oFwaeb3a3NA/0.jpg" 
-alt="Fig tree scene from Master of None" width="240" height="180" border="10" /></a>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/oFwaeb3a3NA" frameborder="0" allowfullscreen></iframe>
 
 > "I saw life branching out before me, like the green fig tree in the story. From the tip of every branch, like a fat purple fig, a wonderful future beckoned and winked. One fig was a husband and a happy home and children, and another fig was a famous poet, and another fig was a brilliant professor, and another fig was Europe and Africa and South America, and another fig was Constantine and Socrates and Attila and a pack of other lovers with queer names and offbeat professions, and beyond and above these figs were many more figs I couldn't quite make out. I saw myself sitting in the crotch of this fig tree, starving to death, just because I couldn't make up my mind which of the figs I would choose. I wanted each and every one of them, but choosing one meant losing all the rest, and as I sat there, unable to decide, the figs began to wrinkle and go black. One by one, they plopped to the ground at my feet." -Dev
 
