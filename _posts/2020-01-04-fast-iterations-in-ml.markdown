@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Fast interations in machine learning"
+title:  "Fast iterations in machine learning"
 excerpt: "Machine learning development feedback loop sucks. When I worked on web dev, I could almost always instantly looks at the result just by refreshing the browser but the same doesn't apply to machine learning..."
 date:   2020-01-04 00:40:00 +0700
 ---
