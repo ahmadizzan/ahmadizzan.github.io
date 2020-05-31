@@ -18,7 +18,9 @@ As a 3rd year Computer Science student, graduation felt getting closer and close
 
 I could go on and on, but you get the idea, there's a lot of big things waiting to be solved and thinking about this reminded me about a really memorable scene about fig tree from the series Master of None. If you haven't watched the show yet, here's the clip from Youtube.
 
-[![Fig tree scene from Master of None](http://img.youtube.com/vi/oFwaeb3a3NA/0.jpg)](http://www.youtube.com/watch?v=oFwaeb3a3NA "")
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=oFwaeb3a3NA
+" target="_blank"><img src="http://img.youtube.com/vi/oFwaeb3a3NA/0.jpg" 
+alt="Fig tree scene from Master of None" width="240" height="180" border="10" /></a>
 
 > "I saw life branching out before me, like the green fig tree in the story. From the tip of every branch, like a fat purple fig, a wonderful future beckoned and winked. One fig was a husband and a happy home and children, and another fig was a famous poet, and another fig was a brilliant professor, and another fig was Europe and Africa and South America, and another fig was Constantine and Socrates and Attila and a pack of other lovers with queer names and offbeat professions, and beyond and above these figs were many more figs I couldn't quite make out. I saw myself sitting in the crotch of this fig tree, starving to death, just because I couldn't make up my mind which of the figs I would choose. I wanted each and every one of them, but choosing one meant losing all the rest, and as I sat there, unable to decide, the figs began to wrinkle and go black. One by one, they plopped to the ground at my feet." -Dev
 
@@ -26,4 +28,4 @@ In a world where options are limitless, I, like Dev on the show, am astounded by
 
 One thing that's for sure is that while life gives us limitless options, it only gives us limited time to take on choosing the options. Thinking too much about which options or paths that we wanted to pursue could lead to many of options ran out of time and no longer available to be pursued. There's always tradeoffs between choosing any of the options, but in the end we have to make the call on which option we wanted to take.
 
-I realized that analysis paralysis is something that's happening to me (and maybe to you too). Which options or paths that I wanted to pursue? at this moment, I honestly don't know yet but I needed to decide very soon and when I do so, I need to put full effort on it.
+I realized that [analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis) is something that's happening to me (and maybe to you too). Which options or paths that I wanted to pursue? at this moment, I honestly don't know yet but I needed to decide very soon and when I do so, I need to put full effort on it.
