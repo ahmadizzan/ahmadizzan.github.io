@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Reflecting life through journaling"
 excerpt: "It started when I saw my friend shared this site called [Skillshare](https://skillshare.com), which is an online learning platform that offers 2 months of free trial."
-date:   2020-07-10 00:40:00 +0700
+date:   2020-06-10 00:40:00 +0700
 ---
 
 ### Background
