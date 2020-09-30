@@ -6,7 +6,7 @@ excerpt: "Spending upfront investments for establishing solid infrastructure in 
 date:   2020-09-29 00:40:00 +0700
 ---
 
-![Good Infrastructure](https://medium.com/r/?url=https%3A%2F%2Fcdn.24.co.za%2Ffiles%2FCms%2FGeneral%2Fd%2F334%2Fe9430dc4459f4e80bdd79495b9f17b53.jpg)
+![Good Infrastructure](https://cdn.24.co.za/files/Cms/General/d/334/e9430dc4459f4e80bdd79495b9f17b53.jpg)
 
 Upfront "infrastructure" investments have been a recurring theme in my head for quite some time that I feel like writing it down to flush it out out of my system.
 
@@ -16,9 +16,9 @@ Now let's backtrack a bit.
 
 For as long as I can remember, I feel like I always want to do things quickly and as hassle-free as possible. This sometimes means that if I think I have everything I need to do something, I will just go ahead complete what I need to do despite knowing that there's this better alternative way that my friends swear will make my job much easier.
 
-Why bother learning a new tool that probably takes hours/days to learn?
+*Why bother learning a new tool that probably takes hours/days to learn?*
 
-Why should I do X first when I could just directly do what I need to do?
+*Why should I do X first when I could just directly do what I need to do?*
 
 So I said.
 
