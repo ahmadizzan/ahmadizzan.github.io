@@ -10,7 +10,7 @@ date:   2020-09-29 00:40:00 +0700
 
 Upfront "infrastructure" investments have been a recurring theme in my head for quite some time that I feel like writing it down to flush it out out of my system.
 
-#### The general hypothesis: spending upfront investments for establishing solid infrastructure in something important almost always pays off.
+#### The general hypothesis: **spending upfront investments for establishing solid infrastructure in something important almost always pays off.**
 
 Now let's backtrack a bit.
 
